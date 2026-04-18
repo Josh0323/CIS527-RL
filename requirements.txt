@@ -1,0 +1,16 @@
+# jupyter
+ipykernel
+jupyter
+
+# openai / azure
+openai>=1.0.0
+azure-identity
+python-dotenv
+
+# data / ML
+torch
+numpy
+tqdm
+
+# optional but useful
+pandas
