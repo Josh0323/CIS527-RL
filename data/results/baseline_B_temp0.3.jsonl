@@ -1997,3 +1997,4 @@
 {"id": 11090, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "{\"label\": \"SUPPORTED\", \"justification\": \"The passage states that Hinduism contains a broad range of philosophies.\"}"}
 {"id": 55732, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "{\"label\": \"SUPPORTED\", \"justification\": \"The passage states that a near-Earth object is abbreviated as NEO.\"}"}
 {"id": 81775, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "{\"label\": \"CONTRADICTED\", \"justification\": \"The passage states that Watertown is in Middlesex County, Massachusetts, which contradicts the claim that it is in Missouri.\"}"}
+{"id": 13127, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "{\"label\": \"CONTRADICTED\", \"justification\": \"The passage states that Christopher Michael Benoit was a Canadian professional wrestler, indicating he was from Canada, not Norway.\"}"}
