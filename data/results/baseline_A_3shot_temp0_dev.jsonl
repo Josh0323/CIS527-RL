@@ -1,0 +1,1995 @@
+{"id": 3148, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 172466, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209347, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81480, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113116, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184080, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 140580, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 9591, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 207342, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 85191, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 137298, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 192040, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 186879, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192708, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 106468, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 55976, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 61843, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 64498, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204010, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 217193, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 13515, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 109509, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 183930, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 69798, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 128175, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181266, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 116760, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 96603, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 56129, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 55156, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17123, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 188141, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 130400, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 85036, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194474, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194741, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209104, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181884, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161210, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145797, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 82559, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 179748, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 95547, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 150508, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215874, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 224981, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50860, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 151264, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148465, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 99301, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 159595, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68122, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42840, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148195, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 28329, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 148484, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 148642, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 170947, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 82745, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195124, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 92243, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 215276, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13758, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 24095, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 72918, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71622, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184108, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195232, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 123193, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 26804, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 166507, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 191641, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 219695, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194476, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 137453, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 20925, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 138821, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 212230, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 119718, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 6808, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 167172, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 150654, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113817, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172753, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 207338, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 105195, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 16070, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 109737, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 224959, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201462, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 117278, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 148966, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 179038, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89455, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 62284, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74163, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 167465, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 79911, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 39122, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 149392, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 195083, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184089, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 99066, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 62419, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202044, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 128461, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 212216, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 198559, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 121936, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 5037, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 79800, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 129650, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223771, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164896, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 121517, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 153477, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165907, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209879, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179272, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148556, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17030, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 90098, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 65079, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 53331, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 150693, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 126657, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 106083, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 26446, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 62594, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 108874, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 219701, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 157652, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 211781, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 193874, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 127659, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 202752, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 60008, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38481, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 164500, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 86598, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 25490, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 98797, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 119227, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201738, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 127366, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 20493, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 48936, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154054, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 88431, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 45297, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 213449, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165664, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222727, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145703, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 87195, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 44732, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156102, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80516, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 187552, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67818, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 42709, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 92449, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 212312, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 117605, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 124397, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 1093, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 139284, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 139147, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 205735, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 103051, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 33671, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171525, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 58534, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 72546, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 177529, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 61781, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 133803, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 25676, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 225722, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 48810, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215140, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192580, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 183449, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 162036, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 31581, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71424, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 127883, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104423, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 154017, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132705, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 95782, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 115257, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 52040, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 95738, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 15883, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 62451, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 175932, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 193907, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 108868, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 67274, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 184413, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 87875, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 9712, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 49834, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 70684, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 96576, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 136928, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 190147, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 46511, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104380, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 132806, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 72905, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222651, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81446, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 23736, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 156664, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 115028, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160467, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 519, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 170942, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130271, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 181264, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 126261, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 205732, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 18179, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 112701, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 214267, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 112872, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110839, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 152811, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 187323, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 174029, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130317, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 15979, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 73934, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131185, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40181, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 11432, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 7593, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 227779, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 96065, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 30479, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 95418, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 112934, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 185390, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 127872, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175484, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 107097, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 210214, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 181824, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 111764, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 222173, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 48016, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 60515, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 182447, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 86530, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 137780, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 48318, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 24659, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 67481, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 124707, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179834, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 26920, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39018, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 71230, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 217666, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 165657, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 200266, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 189879, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 195374, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37325, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 28235, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 7138, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 182924, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12772, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 10300, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 102920, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 173675, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104913, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 200392, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 193866, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 101125, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 73456, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 57773, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 114027, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93099, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165891, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 82229, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199761, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 52068, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 5917, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223294, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 102035, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 217091, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 478, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 48028, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 137498, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 45014, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 216184, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132243, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 63313, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 177152, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38124, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 139551, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104276, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 153654, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90932, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94262, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 139118, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 132679, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 225291, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 78925, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 219142, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 86159, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 183459, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 88712, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 120785, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 124030, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 109786, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90664, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172108, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 105526, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156323, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 106132, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 179051, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 227113, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165917, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 146015, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 129517, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 28706, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 107585, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198090, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 53220, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 163795, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 205741, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 138500, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 133978, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 5598, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 222033, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40125, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 208926, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53967, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 23330, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160664, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 170011, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27457, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 58765, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168621, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 213440, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 107749, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 60241, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 44565, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222749, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76335, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 75307, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159574, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 17129, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185986, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 119430, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 77222, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 97816, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 76165, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 107273, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 80703, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 106966, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 106859, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 64105, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185424, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 182044, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 151510, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 109397, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 191887, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 109026, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78857, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 151633, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132331, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 111745, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 51154, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 102417, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 160350, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 9842, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 47726, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 207261, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 74424, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 15851, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184106, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 573, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204454, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166488, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42628, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 49543, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 92383, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 476, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 32825, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 7105, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29956, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 216777, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 24316, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 85780, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 226453, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 121052, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 15389, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 93645, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 202309, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 69562, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194253, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195920, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104170, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 129570, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 41829, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 145572, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179267, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 5574, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 60633, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134459, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161556, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 208925, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194915, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 109877, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 57895, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 178330, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 191646, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 82761, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 188877, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157460, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 187325, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 82025, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195838, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 97036, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 39833, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 129767, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 128760, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 122073, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 57421, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 139853, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179280, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42052, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 141477, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 139967, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 227773, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 20311, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 29704, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 216594, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 55699, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93013, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 189874, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 169313, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 218113, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 59685, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50887, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 145944, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 100832, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 124934, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223772, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67799, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195194, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 63444, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 169020, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 51244, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 191645, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 172280, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 191880, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 68613, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 119870, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 92090, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 205089, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 121718, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77473, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80227, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 57388, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 185224, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 154437, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 102297, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111982, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156325, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77983, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 32153, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188632, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 221252, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164502, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 72081, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 226137, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 55425, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 118057, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 207317, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 192764, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196747, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201388, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17720, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 78731, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35230, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 64504, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 214243, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194477, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 13952, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 6833, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 32162, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 22744, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 212055, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 163812, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 1494, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 141798, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 153398, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 76121, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 54142, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 9516, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 212325, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39167, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 88172, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 161796, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29065, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223780, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35681, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154799, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 34111, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 16721, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 13869, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 147769, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 13504, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 46755, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94451, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 82602, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175480, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 212330, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53680, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 91002, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 14100, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 158264, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 152179, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 97077, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165888, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 26818, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181825, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142438, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 188993, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 82541, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 137122, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 211858, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192838, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 115537, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134188, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 58646, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 7964, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 122432, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223290, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29953, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81391, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131848, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 31418, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 61235, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 11184, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 50463, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77616, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 47457, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202790, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 123411, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199803, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175435, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175870, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 19592, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 169315, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 97243, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 193830, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223337, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 161547, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 188570, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 107124, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67148, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204576, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131594, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 80800, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 202316, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 216382, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142602, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 126682, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 70020, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 17914, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 30106, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 201600, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 47241, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 62697, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169037, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 148308, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 25005, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 100757, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165115, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 171483, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 54949, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 143044, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 129780, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185298, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 186324, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 96069, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165881, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 7683, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29720, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 35382, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118414, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 78264, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 200370, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 7419, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 135341, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 31684, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 82615, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 63698, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 144602, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 10908, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 226840, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 66117, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76531, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29027, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 200390, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 137334, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 206992, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 34769, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 89932, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12610, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 114044, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 214262, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 54959, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209855, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 174979, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164049, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93365, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 108217, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173035, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27427, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 42686, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80590, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 94454, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 122828, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 197658, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169004, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179816, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 43515, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 120165, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 138884, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 224570, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 2530, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 194172, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 103503, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142947, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86131, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161801, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199758, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192981, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 183921, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184285, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 93184, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 148616, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179007, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 49707, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 228066, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 226104, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 225275, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98304, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 47684, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 66903, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27897, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39664, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222162, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53254, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188145, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148234, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159093, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 148541, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198553, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 25533, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 59777, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 202925, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98092, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86968, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 216194, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 88593, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 127814, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 23320, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93952, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 205270, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 150017, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 70604, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 218371, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204310, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 81519, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 84105, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 220284, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 52183, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 191892, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 104324, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 182051, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 24677, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 102175, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50703, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 121113, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 115131, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 228568, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 205658, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 31771, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 28384, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145707, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 34658, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17732, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39539, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 7639, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 134670, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 206736, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209877, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173038, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194482, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157641, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145139, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 47660, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 136326, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 10453, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 43443, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 201575, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192965, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 93465, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171622, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181633, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 201743, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 197661, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175452, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168082, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172300, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67746, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 83630, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198015, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 87760, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 226440, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 119374, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 207322, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 217111, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 184094, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134179, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 147577, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111004, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 224114, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 208139, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173713, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 110008, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132225, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 2076, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94546, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50357, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 100038, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 48119, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 145558, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 155814, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 46873, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 19687, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 224368, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 85881, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39560, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172092, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74760, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196162, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 17124, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 23317, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 124654, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154811, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148979, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 149501, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 83367, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 40528, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 58155, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165655, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13085, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 5747, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 19764, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 8499, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 108960, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 225735, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 212329, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 191657, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 155555, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 182930, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 25368, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 168615, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113518, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50910, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173921, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 139490, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 56542, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 165866, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 108119, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 215487, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 123101, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 129011, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 125105, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27363, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78914, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196978, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 227114, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185763, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 226108, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 193543, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19951, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196980, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172704, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172320, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42437, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 75836, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 201587, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 207521, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39606, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 143867, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 94234, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 3264, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 132370, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 212232, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35596, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 47060, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 137376, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 224572, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76693, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159722, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 125865, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 168937, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 144899, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159951, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 136270, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195195, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 157954, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 192835, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 116417, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 14310, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 160589, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 22371, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98471, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157492, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71479, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 128532, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 108882, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 7792, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 186328, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 225797, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 99267, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86698, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 190167, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 156379, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36232, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 146055, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166381, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39983, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 57080, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 137038, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 180697, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 226883, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 127669, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89229, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194799, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173934, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 34155, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 43109, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 10118, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 177845, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 200042, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 115863, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131782, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 14853, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80186, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 69681, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 194021, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 43893, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 61823, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 146582, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 9762, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 152021, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 122706, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71722, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 59982, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 158909, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130052, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 23608, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 34881, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 18951, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156950, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 170010, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 186923, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 127596, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 208923, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 217380, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 87918, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 88426, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77007, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 149296, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215497, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17721, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164399, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 184050, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 117199, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 115993, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 11151, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 17031, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 116384, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 757, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 8546, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 28741, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 144963, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 186873, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 367, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 192037, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 96271, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 3517, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 156831, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 68828, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 91286, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 206437, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 16325, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71187, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196170, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204568, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 54915, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89583, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 7811, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39399, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204998, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 191258, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 114443, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134200, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 26444, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164403, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 107725, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 61564, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53248, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 97549, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 60411, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 48901, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 108085, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 151223, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 129818, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68283, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 134393, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 218110, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74363, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 56361, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 52356, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76904, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 150148, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 203698, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 60794, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71796, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157792, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113963, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 228334, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 146518, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 26964, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 125860, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132067, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185758, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223767, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 32499, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 72218, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 115832, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 83955, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 227353, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37271, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 167969, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166841, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 197345, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 52753, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 19738, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27775, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 168626, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 77275, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35166, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 200274, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 141885, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 182279, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110652, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 199428, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145293, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 182915, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171088, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 33840, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157646, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199683, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35309, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168936, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161921, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 121879, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192856, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 216366, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 216394, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 55470, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161251, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161719, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 73564, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 34249, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 101504, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 91948, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 4713, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98588, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17554, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 182926, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 71120, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 36882, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 66809, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 178254, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27584, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 95601, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74276, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 123375, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 66218, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77126, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 133133, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 212212, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 126359, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148036, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42841, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 4916, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199820, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 41422, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 141966, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 135589, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 211290, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 2862, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 99511, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 4090, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 195942, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40050, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12084, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93062, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 165887, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 220219, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38029, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 9152, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 9119, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 114251, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 207516, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 48574, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94168, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 198421, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 5076, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74795, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 215129, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148167, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 35702, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 211856, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 203394, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 152389, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 173717, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 158895, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 106496, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 65776, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 141587, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 110390, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 15084, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 201751, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 116067, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 167174, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 107589, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 218471, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 54983, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 136976, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110394, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160764, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 170949, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 159320, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169997, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 172712, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 25320, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 43697, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 83840, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 144429, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94414, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 20316, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 225873, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209356, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 145619, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113884, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192771, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156541, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 62004, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142793, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 61953, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173654, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 65558, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 16008, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98108, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 72208, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 54845, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159704, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184052, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 12952, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202734, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 166864, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 23251, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164529, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 109373, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 216592, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 191876, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181994, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 18086, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202765, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 119437, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 144897, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 167170, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13757, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 126963, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 116711, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 71618, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 220457, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 127114, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169322, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 68158, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 97774, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 84421, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78859, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 189777, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68022, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 87064, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 192832, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 53320, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 114738, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168060, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 100802, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 54111, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 227088, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 26217, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 14037, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 28179, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 39382, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111049, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130724, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 34695, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 126955, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 73158, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 105600, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142670, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 63465, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 72985, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 81806, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37234, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 15217, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 48815, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 208443, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181890, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 159322, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93082, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 116717, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 220952, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 89419, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13229, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 78055, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17634, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 41803, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154494, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80650, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 187572, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 178348, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 14510, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 173492, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36499, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 140286, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 99047, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67572, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 28545, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40992, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 1961, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134682, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 169003, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38175, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 22267, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39615, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 7358, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36451, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 62149, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 142189, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 31457, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 65725, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 119935, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 193890, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 166500, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29112, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 9164, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93334, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110683, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 210212, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 1251, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 69699, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 52565, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 8983, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130946, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154919, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179026, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19478, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 219300, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 96181, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 219169, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161581, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 155328, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 146912, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38140, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 14753, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196975, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71352, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185394, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 8576, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 207541, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 142135, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 32918, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204351, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 112166, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 177181, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 123236, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 73859, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 219278, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 64347, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 91111, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 223350, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 84209, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142224, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 102285, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 228345, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223271, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 111363, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188647, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35055, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 194357, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 9748, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 30486, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36350, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 49879, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 175650, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 89014, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154205, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131751, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 1932, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38399, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204020, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 229303, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 41290, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 97686, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 100683, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36954, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 70846, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 127663, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 194793, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202928, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110887, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 14367, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 125982, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 140877, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 120578, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 96239, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37827, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 99026, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 60288, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 225811, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 20440, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132865, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 39021, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 205134, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 136588, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 10100, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 151483, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 160795, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 101839, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 205747, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 76759, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 75678, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 98555, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 64985, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 4474, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179305, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 32968, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 88690, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 92150, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 98984, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 80313, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165641, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 41811, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86438, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157320, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 4675, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93646, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204335, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 34392, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 62816, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 181880, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 203615, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 153578, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 137573, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 83871, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171638, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 216356, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160309, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29146, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 28552, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 180699, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156775, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169323, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36496, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157602, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 122816, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 22945, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 191442, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198532, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 94032, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 177857, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 117370, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68573, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 143271, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 85467, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118114, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 219682, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 29856, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78388, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 31960, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 214785, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160899, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 203034, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 164985, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215123, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 228331, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 79340, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 16702, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 126747, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 135956, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171075, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 144879, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 92905, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 88941, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13211, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 82470, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 121251, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 118603, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 101683, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 217678, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 57554, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 209346, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 122358, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 44512, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 218468, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 145967, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 159694, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 11837, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90549, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165239, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67833, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166626, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 227097, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 84856, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185168, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 27564, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 56860, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 144983, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 73503, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 119681, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 138728, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168085, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74126, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27960, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 96688, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94344, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 25178, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 173121, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 196971, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 82075, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 141403, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 139961, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209873, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 21187, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 185289, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 67917, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179017, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 3761, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 98759, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13138, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36092, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 166901, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 25921, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 168637, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 129239, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 174585, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 186998, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111707, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 187536, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 106928, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 95687, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196964, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 45699, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 27640, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 114745, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118139, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201808, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 212029, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 59290, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 144170, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 60431, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 74604, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 97643, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 47570, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 192185, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 99822, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 206035, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 179838, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 141032, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 63769, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 112565, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 180691, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 148735, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204341, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 164643, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 144487, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19204, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 179029, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 57524, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38594, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90338, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 26389, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 4746, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 100300, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50213, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 15425, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 118515, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 17290, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 217674, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 102445, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86043, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71650, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 75152, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202467, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 211016, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 127756, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 224125, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161007, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 217212, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 96262, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 23427, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 68282, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 54257, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 191873, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 79121, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 140391, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 146792, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 26155, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35899, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131562, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201798, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 43170, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 180566, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 99965, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68706, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 189755, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80338, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 1272, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 228073, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 99545, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 180580, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 29746, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 172751, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 63301, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 31728, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 142055, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188646, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 124479, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 139478, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 51596, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 202751, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 141668, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 200395, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188979, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 183489, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181128, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 172507, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 218463, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 221137, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 151311, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81361, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165661, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 99144, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 63339, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 221124, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 29089, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39356, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161312, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37265, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37887, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 85619, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118257, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130151, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201116, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 41703, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175464, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 90615, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 63506, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74127, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19096, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 213927, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 109747, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 120000, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 97705, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 86055, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104728, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 63983, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68743, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 146202, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 2224, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 177836, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 166644, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42301, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53147, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132966, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188130, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94740, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 125037, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 149612, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 199759, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 166854, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 66908, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110604, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 133523, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 18590, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 69258, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 131735, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 5934, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 168938, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 149460, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165688, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 114720, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 120735, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 103315, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 104553, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160932, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71725, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 80303, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 177147, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 100584, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 5014, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 167995, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 140935, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154383, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 46833, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 65269, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 151682, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 165873, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 117283, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 31331, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53177, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 128741, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 137508, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 215482, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 139407, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90251, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76181, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 22729, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 170410, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 225252, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 45222, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 14767, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204434, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78600, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 69474, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 183473, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98673, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132256, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 75013, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 106498, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 98453, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181986, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161101, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 55305, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 90339, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222738, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 49820, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 167986, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 220978, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 105530, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 85408, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 45396, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 56472, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76594, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110506, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169011, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 88141, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 125317, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 227362, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 212326, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 142138, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145041, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171069, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 2303, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159326, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 162214, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181265, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194027, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 138593, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194225, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 46754, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 194794, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81613, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 153394, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 195227, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198435, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 219683, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 150829, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 187543, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 228088, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118111, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 64797, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89376, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 221251, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 61095, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215200, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 58711, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 43078, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 3202, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166848, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 153261, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 185389, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 185786, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 18197, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 70163, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 211774, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 47525, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 73439, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 171082, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 15284, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 195020, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198893, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 198428, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 126823, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 45302, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 113953, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 66425, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 78795, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 131373, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 18030, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 153147, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 104111, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168057, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 129369, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 84268, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 87820, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161564, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 129426, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 59718, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 4100, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154001, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 161568, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 208901, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 175926, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 14096, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 6680, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 193837, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 91721, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111492, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204442, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98306, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12936, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194023, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165257, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40987, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194748, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78345, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113275, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 122099, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89323, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 74650, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 45574, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154404, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19097, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 127180, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 214247, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 57071, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 78597, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 201369, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90141, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222169, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 33498, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 21852, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 26793, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110695, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223202, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 149040, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 43554, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130593, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68132, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 109563, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 227363, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 115694, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 198547, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 27529, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 59956, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223286, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 154241, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 124632, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 54910, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 219161, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 194455, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 67457, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 38696, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37432, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 160850, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 204577, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 53164, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 48276, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 91056, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160779, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 51930, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 9944, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 63590, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181867, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118806, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 105256, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 69722, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 15830, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 92151, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 69108, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 68000, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90254, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 18051, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 87486, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 73261, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 100359, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175737, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 50743, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 134979, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 228350, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 134854, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 145037, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 103111, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 117967, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 157048, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 58967, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 146772, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 70602, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 55707, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 46024, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 212342, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 2271, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 158294, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194188, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 54700, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 143131, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 180579, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 5242, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 23962, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 137210, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 182936, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 163975, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 185296, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 226862, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 120234, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 36141, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 184096, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 23381, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 55541, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 72182, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 208440, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184308, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 77700, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 85924, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 139535, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 13327, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 213952, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 110772, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118293, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 123753, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 171645, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 59966, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 3160, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 196746, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86172, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 150655, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 101042, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 194178, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 66540, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 109368, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81697, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 15899, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 11553, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 140242, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 184418, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 54821, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 72781, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 107231, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 119829, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 203395, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 48023, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 93839, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77622, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 106176, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 151573, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 45345, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19372, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40944, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 205095, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 141638, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 128459, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 75153, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 76096, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194342, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 357, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 91884, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 180710, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 108598, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 215506, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12747, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 113010, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 168968, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 175470, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 102173, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 78498, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 225865, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 163987, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 72090, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 87922, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 42260, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 162041, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 35574, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 145570, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 167468, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 183507, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 211873, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 126399, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 58918, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 35858, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 165698, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 205076, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 64349, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12369, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 90367, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134177, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39801, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 160890, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 168963, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145624, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 200382, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 191882, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 149587, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 79696, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 24675, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 155704, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148377, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 225263, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 12118, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 124669, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165876, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 200387, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 117129, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94151, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 81305, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 220979, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118664, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 226153, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 169580, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 753, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93594, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 64874, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 70643, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 30233, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 228091, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98020, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166632, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 202460, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111938, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 156977, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 157685, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 98683, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71376, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215286, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 26078, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 50693, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 86133, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 78181, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 44452, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 202945, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 98121, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 209119, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 200291, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68698, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166373, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 78883, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 143500, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 93087, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134464, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 174035, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 145271, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 153808, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 166648, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 220200, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 1248, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 19721, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199815, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159937, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 140144, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 77548, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 159323, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89661, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 92657, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 126173, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 126183, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 178148, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 157002, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 84675, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 113381, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 87241, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 37996, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 89937, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 177856, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 72250, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 7744, "label": "CONTRADICTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 185396, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 215267, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 15406, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 30756, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 186331, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 130325, "label": "CONTRADICTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 43036, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 120718, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 165123, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 68232, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 134592, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 74845, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 199735, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 140847, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 155145, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 116398, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 128888, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 183918, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 72263, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 45823, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 147610, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 111600, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 122678, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 85175, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 66176, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 42381, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 128544, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 101139, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 223495, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 66210, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 59550, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 42600, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 110873, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 105642, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 194796, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 32091, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 27980, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 32970, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 112458, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104036, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 183463, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 175658, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 27308, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 59489, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 159693, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 44291, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 92801, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 72485, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 204011, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 146141, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 39185, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 132932, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 40195, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 66918, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 54325, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 96695, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 81778, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 138814, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 121238, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 148830, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 82792, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 32198, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 153030, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 147935, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 71570, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 132073, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 181118, "label": "SUPPORTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 8789, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 22569, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 120723, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 188142, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 171482, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 118708, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 193525, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 42201, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 1219, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 57899, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 94376, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 111897, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 18066, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 162641, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 215510, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 104530, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 25358, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 94812, "label": "SUPPORTED", "pred_label": "SUPPORTED", "raw": "SUPPORTED"}
+{"id": 225801, "label": "NOT MENTIONED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 96711, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 222775, "label": "CONTRADICTED", "pred_label": "CONTRADICTED", "raw": "CONTRADICTED"}
+{"id": 74467, "label": "NOT MENTIONED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
+{"id": 60066, "label": "SUPPORTED", "pred_label": "NOT MENTIONED", "raw": "NOT MENTIONED"}
