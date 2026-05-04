@@ -37,4 +37,4 @@ Three fine-tuning strategies are compared:
 - `data/raw/` — raw FEVER files
 - `data/joined/` — preprocessed passage–claim–label triples
 - `data/generated/` — training files uploaded to Azure
-- `data/results/` — dev/test eval outputs and loss curves
+- `data/results/` — dev/test eval outputs
